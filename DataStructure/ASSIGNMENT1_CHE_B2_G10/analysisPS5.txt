@@ -1,0 +1,23 @@
+The Time Complexity based on the data structure used and its operations in the programs written are:
+
+Doubly-Linked List: 
+Used for storing the patient details.
+   Typical operation performed:
+	1.) Searching/Acessing the List      : O(n)
+	2.) Insertion of records to the list : O(1)
+	3.) Deletion of a patient once doctors appoinment is over - Theta(log n)
+
+So in Total the List of patients has a running time complexity of O(n)
+
+Max Heap:
+Used for used for maintiaing Consult Queue.
+
+Building the heap would take O(n) irrespective of whether the heap is max or min heap.
+
+Heapifying the tree would cost us O(Log n)
+deleting top of heap also would cost us O(Log n)
+
+So, in Total the Consult queue has a running time complexity of O(n log n)
+
+
+

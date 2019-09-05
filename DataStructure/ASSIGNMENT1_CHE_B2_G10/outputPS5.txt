@@ -1,0 +1,57 @@
+----initial queue ---------------
+No of patients added: 3
+Refreshed queue: 
+100489, Sanjay
+100260, Surya 
+100320, Ravi
+-------------------new patient entered---------------
+Patient details: John, 55, 100555
+Refreshed queue:
+100489, Sanjay
+100260, Surya 
+100555, John
+100320, Ravi
+-------------------new patient entered---------------
+Patient details: Pradeep, 45, 100645
+Refreshed queue:
+100489, Sanjay
+100260, Surya 
+100555, John
+100645, Pradeep
+100320, Ravi
+--------------------next patient --------------
+Next patient for consultation is: 100489, Sanjay
+-------------------new patient entered---------------
+Patient details: Pradeep, 45, 100745
+Refreshed queue:
+100260, Surya 
+100555, John
+100645, Pradeep
+100745, Pradeep
+100320, Ravi
+--------------------next patient --------------
+Next patient for consultation is: 100260, Surya 
+--------------------next patient --------------
+Next patient for consultation is: 100555, John
+--------------------next patient --------------
+Next patient for consultation is: 100745, Pradeep
+--------------------next patient --------------
+Next patient for consultation is: 100645, Pradeep
+--------------------next patient --------------
+Next patient for consultation is: 100320, Ravi
+--------------------next patient --------------
+No Further patient available for consultation 
+--------------------next patient --------------
+No Further patient available for consultation 
+--------------------next patient --------------
+No Further patient available for consultation 
+--------------------next patient --------------
+No Further patient available for consultation 
+--------------------next patient --------------
+No Further patient available for consultation 
+-------------------new patient entered---------------
+Patient details: Raj, 34, 100834
+Refreshed queue:
+100834, Raj
+--------------------next patient --------------
+Next patient for consultation is: 100834, Raj
