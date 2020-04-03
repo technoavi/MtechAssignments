@@ -1,0 +1,17 @@
+city_1	city_2	distance
+Raichur	Panji	457
+Raichur	Tirupati	453
+Raichur	Kurnool	100
+Panji	Mangalore	365
+Panji	Bellari	409
+Bellari	Tirupati	379
+Tirupati	Chennai	153
+Tirupati	Nellore	136
+Tirupati	Kurnool	340
+Kurnool	Nellore	325
+Nellore	Chennai	175
+Mangalore	Kozhikode	233
+Mangalore	Bangalore	352
+Bellari	Bangalore	311
+Kozhikode	Bangalore	356
+Bangalore	Chennai	346
